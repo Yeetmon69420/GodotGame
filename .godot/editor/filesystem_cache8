@@ -1,8 +1,9 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1692406317
+::res://::1692519376
 Enemy.gd::GDScript::-1::1692333458::0::1::::<>Area2D<>::
 icon.svg::CompressedTexture2D::3132221450650446017::1692333458::1692406066::1::::<><>::
 oak_woods_tileset.png::CompressedTexture2D::9170648510476233421::1692333458::1692333458::1::::<><>::
+SpearTrap.tscn::PackedScene::7893071363036913089::1692519298::0::1::::<><>::uid://c8lao0f2caxtr::::res://Sprites/Trap (7)/Spear.png
 SpinningBlade.gd::GDScript::-1::1692333458::0::1::::<>Node2D<>::
 World.tscn::PackedScene::5263928806411131846::1692333458::0::1::::<><>::uid://80s77tbmjy03
 ::res://addons/::1692333458
@@ -31,10 +32,10 @@ Run.png::CompressedTexture2D::1280460414512911365::1692333458::1692333458::1::::
 sora.gd::GDScript::-1::1692333458::0::1::::<>CharacterBody2D<>::
 Spear.png::CompressedTexture2D::4288455852724263079::1692333458::1692333458::1::::<><>::
 World.tscn::PackedScene::1342733626177196357::1692333458::0::1::::<><>::uid://80s77tbmjy03
-::res://Scenes/::1692406317
-Character.tscn::PackedScene::2368993045341658422::1692333458::0::1::::<><>::res://Scripts/Character.gd<>uid://dchoq2w1gynjd::::res://Sprites/Attack1.png<>res://Scenes/Label.gd<>uid://bxovghs1gkptl::::res://Sprites/Idle.png<>uid://sii84k2cf3sj::::res://Sprites/Run.png<>uid://b8mby13wts2mi::::res://Sprites/Death.png<>uid://ck3mxs336imvm::::res://Sprites/Jump.png<>uid://bfqtl037rwu1w::::res://Sprites/Fall.png
-enemy.tscn::PackedScene::2693765596349370148::1692333458::0::1::::<><>::res://Enemy.gd<>uid://b2h68xqcaps3m::::res://Sprites/Goblin_Death_0.png<>uid://qb7yfe8i3ii4::::res://Sprites/Goblin_Death_1.png<>uid://sg0j4ny85010::::res://Sprites/Goblin_Death_2.png<>uid://bnv284iyx5tqu::::res://Sprites/Goblin_Death_3.png<>uid://bhy8sx7u168g2::::res://Sprites/Goblin_Walk_0.png<>uid://uxmooblux11x::::res://Sprites/Goblin_Walk_1.png<>uid://q31xrkimwu06::::res://Sprites/Goblin_Walk_2.png<>uid://becvnfxwg570r::::res://Sprites/Goblin_Walk_3.png
-FireTrap.tscn::PackedScene::8749515066402563114::1692333458::0::1::::<><>::uid://dua2s5lwvyluo::::res://Sprites/burning_loop_3.png
+::res://Scenes/::1692519298
+Character.tscn::PackedScene::2368993045341658422::1692519298::0::1::::<><>::res://Scripts/Character.gd<>uid://dchoq2w1gynjd::::res://Sprites/Attack1.png<>res://Scenes/Label.gd<>uid://bxovghs1gkptl::::res://Sprites/Idle.png<>uid://sii84k2cf3sj::::res://Sprites/Run.png<>uid://b8mby13wts2mi::::res://Sprites/Death.png<>uid://ck3mxs336imvm::::res://Sprites/Jump.png<>uid://bfqtl037rwu1w::::res://Sprites/Fall.png
+enemy.tscn::PackedScene::2693765596349370148::1692519298::0::1::::<><>::res://Enemy.gd<>uid://b2h68xqcaps3m::::res://Sprites/Goblin_Death_0.png<>uid://qb7yfe8i3ii4::::res://Sprites/Goblin_Death_1.png<>uid://sg0j4ny85010::::res://Sprites/Goblin_Death_2.png<>uid://bnv284iyx5tqu::::res://Sprites/Goblin_Death_3.png<>uid://bhy8sx7u168g2::::res://Sprites/Goblin_Walk_0.png<>uid://uxmooblux11x::::res://Sprites/Goblin_Walk_1.png<>uid://q31xrkimwu06::::res://Sprites/Goblin_Walk_2.png<>uid://becvnfxwg570r::::res://Sprites/Goblin_Walk_3.png
+FireTrap.tscn::PackedScene::8749515066402563114::1692519298::0::1::::<><>::uid://dua2s5lwvyluo::::res://Sprites/burning_loop_3.png
 Label.gd::GDScript::-1::1692333458::0::1::::<>Label<>::
 node_2d.tscn::PackedScene::2571179205839910495::1692333458::0::1::::<><>::uid://b2dmig80rky1t
 ::res://Scripts/::1692333458
