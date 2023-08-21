@@ -7,7 +7,7 @@
 [ext_resource type="Texture2D" uid="uid://qhmnm3amr4q0" path="res://Background/background_layer_1.png" id="5_o30ye"]
 [ext_resource type="Texture2D" uid="uid://2fj2c2a7wu7m" path="res://Background/background_layer_2.png" id="6_srrj6"]
 [ext_resource type="Texture2D" uid="uid://cpx2r8kmt3fn" path="res://Background/background_layer_3.png" id="7_0j6ra"]
-[ext_resource type="Texture2D" uid="uid://d3wligy7bjgvt" path="res://oak_woods_tileset.png" id="8_4b36n"]
+[ext_resource type="Texture2D" uid="uid://d3wligy7bjgvt" path="res://Sprites/oak_woods_tileset.png" id="8_4b36n"]
 
 [sub_resource type="PhysicsMaterial" id="PhysicsMaterial_v3any"]
 

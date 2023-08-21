@@ -1,3 +1,4 @@
+TileMap
 CollisionShape2D
 Area2D
 Sprite2D
@@ -11,7 +12,6 @@ Timer
 CollisionPolygon2D
 AnimationTree
 ParallaxBackground
-TileMap
 Camera2D
 CharacterBody2D
 StaticBody2D

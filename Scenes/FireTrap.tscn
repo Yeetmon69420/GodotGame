@@ -60,3 +60,6 @@ libraries = {
 position = Vector2(0, -2)
 texture = ExtResource("1_7uoci")
 hframes = 6
+
+[node name="TileMap" type="TileMap" parent="."]
+format = 2
