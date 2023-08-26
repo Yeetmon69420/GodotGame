@@ -434,7 +434,7 @@ shape = SubResource("CapsuleShape2D_lj7ih")
 [node name="Camera2D" type="Camera2D" parent="."]
 limit_left = 0
 limit_top = 0
-limit_bottom = 648
+limit_bottom = 600
 limit_smoothed = true
 
 [node name="Label" type="Label" parent="Camera2D"]

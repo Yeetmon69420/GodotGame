@@ -1,7 +1,6 @@
-res://Menu.gd
-res://Scenes/Menu.tscn
 res://Scenes/Character.tscn
 res://Scenes/enemy.tscn
 res://Scenes/FireTrap.tscn
 res://SpearTrap.tscn
 res://World.tscn
+res://Label.gd

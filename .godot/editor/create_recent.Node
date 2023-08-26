@@ -1,3 +1,4 @@
+Label
 Button
 VBoxContainer
 MarginContainer
@@ -9,7 +10,6 @@ AnimationPlayer
 AnimatedSprite2D
 Path2D
 PathFollow2D
-Label
 ParallaxLayer
 Timer
 CollisionPolygon2D
